@@ -51,7 +51,9 @@ This project is currently in early development.
 - Desktop platforms (No plans yet)
 
 ## License
-This project is licensed under the GPL-3.0 License.
+This project is licensed under the **GPL-3.0 License** with a Unity Runtime Exception.
+The Unity Runtime Exception allows linking with the proprietary Unity Engine runtime libraries without triggering GPL copyleft requirements solely due to that linking.
+See the `LICENSE` file for full details.
 
 ## Third-Party Assets
 This project includes third-party assets.

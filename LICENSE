@@ -672,3 +672,24 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+-------------------------------------------------------------------------------
+
+                    UNITY RUNTIME LIBRARY EXCEPTION
+
+As a special exception to the GNU General Public License version 3,
+the copyright holders of this software grant you permission to link
+this software with the Unity Engine runtime libraries (including but
+not limited to UnityEngine.dll and related assemblies provided by
+Unity Technologies), regardless of the license terms of those
+libraries, and to copy and distribute the resulting executable under
+the terms of the GNU General Public License version 3, with the
+"Unity Runtime Exception" applied as stated here.
+
+This exception does not invalidate any other reasons why the executable
+file might be covered by the GNU General Public License.
+
+The Unity Engine runtime libraries are proprietary software owned by
+Unity Technologies. This exception only applies to linking with those
+specific runtime libraries and does not grant any rights to the Unity
+Engine runtime libraries themselves.
