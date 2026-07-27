@@ -57,4 +57,4 @@ See the `LICENSE` file for full details.
 
 ## Third-Party Assets
 This project includes third-party assets.
-See `THIRD_PARTY_LICENSES.md` for license details and attributions.
+See `THIRD_PARTY_LICENSES` for license details and attributions.
