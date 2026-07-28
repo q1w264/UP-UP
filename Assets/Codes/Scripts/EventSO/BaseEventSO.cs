@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace Codes.Scripts.EventSO
+namespace Runtime.Codes.Scripts.EventSO
 {
     public class BaseEventSO<T> : ScriptableObject
     {

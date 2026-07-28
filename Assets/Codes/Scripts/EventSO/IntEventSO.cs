@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Codes.Scripts.EventSO
+namespace Runtime.Codes.Scripts.EventSO
 {
     [CreateAssetMenu(menuName = "SOEvents/IntEventSO", fileName = "New Int Event SO")]
     public class IntEventSO : BaseEventSO<int>
