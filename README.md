@@ -41,7 +41,7 @@ Then open the project in Unity Hub.
 This project is currently in early development.
 
 ## Roadmap
-- [ ] Set up the initial project structure
+- [x] Set up the initial project structure
 - [ ] Add core gameplay loop
 - [ ] Create basic UI
 - [ ] Parpare the first playable version
