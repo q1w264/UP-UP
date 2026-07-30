@@ -1,3 +1,16 @@
 fileFormatVersion: 2
 guid: 3af0b9a933114c089ac58dd2d8d614c3
-timeCreated: 1785410847
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onMoveEvent: {fileID: 11400000, guid: bbb9388c45dfb466e83687be68b4b30f, type: 2}
+  - onJumpEvent: {fileID: 11400000, guid: 389001fdc62654f3f9f99c665a624b47, type: 2}
+  - onInteractEvent: {fileID: 11400000, guid: ca333ad31d90449ccb1388dc9f8611a2, type: 2}
+  - onSprintEvent: {fileID: 11400000, guid: 316330b2e84374085ac2fa23d24b14ef, type: 2}
+  - onMenuEvent: {fileID: 11400000, guid: 4a294e2e7b2c14d439d49dbfbdabd8b3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
