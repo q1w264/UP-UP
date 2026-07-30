@@ -18,7 +18,7 @@ namespace Runtime.Codes.Scripts.InputSystem
 
         private void Awake()
         {
-            _inputAction = GetComponent<GameInputAction>();
+            _inputAction = new GameInputAction();
             _playerActions = _inputAction.Player;
             _playerActions.AddCallbacks(this);
         }
