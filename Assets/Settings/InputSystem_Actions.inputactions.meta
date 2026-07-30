@@ -11,4 +11,4 @@ ScriptedImporter:
   generateWrapperCode: 1
   wrapperCodePath: Assets/Codes/Scripts/InputSystem/GameInputSystem.cs
   wrapperClassName: GameInputAction
-  wrapperCodeNamespace: 
+  wrapperCodeNamespace: Runtime.Codes.Scripts.InputSystem
