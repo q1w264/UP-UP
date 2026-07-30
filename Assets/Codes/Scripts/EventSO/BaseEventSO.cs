@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Runtime.Codes.Scripts.EventSO
 {
-    public class BaseEventSO<T> : ScriptableObject
+    public abstract class BaseEventSO<T> : ScriptableObject
     {
         private Action<T> _action;
 

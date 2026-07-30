@@ -28,7 +28,7 @@ namespace Tests.Tests.EditMode
         }
 
         [Test]
-        public void VoidEventSO_Remove_CallsEvent()
+        public void VoidEventSO_Unsubscribe_DoesNotInvokeHandler()
         {
             var soEvent = ScriptableObject.CreateInstance<VoidEventSO>();
             var isCalled = false;
@@ -40,7 +40,7 @@ namespace Tests.Tests.EditMode
         }
 
         [Test]
-        public void IntEventSO_Remove_CallsEvent()
+        public void IntEventSO_Unsubscribe_DoesNotInvokeHandler()
         {
             var soEvent = ScriptableObject.CreateInstance<IntEventSO>();
             var testValue = 67;
